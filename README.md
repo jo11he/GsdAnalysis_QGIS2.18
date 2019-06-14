@@ -1,6 +1,6 @@
 # GSD-Analysis-QGIS-2.18
 
-Python2.7 based QGIS2.18 plugin for Line of Sight Analysis to support UAV mission planning
+Python2.7 based QGIS2.18 plugin for Ground Sampling Distance Analysis to support UAV mapping and surveillance mission planning
 
 !!! I highly recommend using GsdAnalysis_QGIS3 instead !!!
 
